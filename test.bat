@@ -1,0 +1,1 @@
+start crawler.bat "sleep(1); echo 'teste'; echo 'teste2'; sleep (10);"
